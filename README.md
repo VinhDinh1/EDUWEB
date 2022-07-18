@@ -1,8 +1,9 @@
-                                                            EduWeb - Online Education Platform For Kids
+ EduWeb - Online Education Platform For Kids
  
  Introduction
  
  The Covid-19 pandemic has affected our lives in various ways. All the countries across the globe resorted to imposing lockdowns to contain the spread of the virus. Since schools and colleges had to be closed because of the lockdowns, students have been studying online. Teachers have been conducting classes online over various applications such as google meet, zoom. VietNam as a country had never taken to online education before but the pandemic forced us to resort to it sooner and we were ready to adapt to it.
+ 
  EduWeb is an online education website that offers interactive and fun courses for kids.EduWeb is a website built using HTML, CSS and JavaScript. It has various features like Login Page, About Section, Courses section and much more.
  
  Home page
