@@ -8,22 +8,21 @@
  
  Home page
  
- ![Screenshot (279)](https://user-images.githubusercontent.com/93752235/179544835-d49fdb27-30a8-4041-9ee7-4447ead3def9.png)
+![Screenshot (279)](https://user-images.githubusercontent.com/93752235/179545975-d299c897-f48e-417a-a704-307af95a22ab.png)
 
  Course Section
  
- ![Screenshot (280)](https://user-images.githubusercontent.com/93752235/179544988-49de3a34-f1c1-4b40-bb7c-361e82c9a5aa.png)
+ ![Screenshot (280)](https://user-images.githubusercontent.com/93752235/179546044-28a2d88c-2d8d-43c4-9266-4be9347431c8.png)
 
  About us
  
- ![Screenshot (281)](https://user-images.githubusercontent.com/93752235/179545063-6ee19e53-4895-4118-b3ab-65c4dd8623cf.png)
+ ![Screenshot (281)](https://user-images.githubusercontent.com/93752235/179546096-e1c657d8-cee9-49f7-8b38-7e2971119898.png)
 
  Teachers Section
  
- ![Screenshot (282)](https://user-images.githubusercontent.com/93752235/179545175-17290a8b-f10c-49ca-b8e1-496c9ed32e94.png)
+ ![Screenshot (282)](https://user-images.githubusercontent.com/93752235/179546126-2f80b84e-8697-4d1e-8c23-bf5046e3d92d.png)
 
 Contact Us
 
-![Screenshot (283)](https://user-images.githubusercontent.com/93752235/179545298-b2cb587b-6012-4d3a-b145-d1d022e5e12f.png)
+![Screenshot (283)](https://user-images.githubusercontent.com/93752235/179546164-8690991e-deaf-452c-896f-768070791232.png)
 
- 
